@@ -1,0 +1,47 @@
+
+body{
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+
+}
+#reset{
+    margin-left: 260px;
+    width: 170px;
+    height: 130px;
+    border-radius: 1rem;
+    background-color: transparent;
+    font-size: 70px;
+    border: 2px black solid;
+    transition: all 0.2 ease;
+    background:linear-gradient(var(--x),#00ccff,#de1538,#d400d4);
+}
+button:active{
+    transform: scale(0.96);
+}
+.js-score{
+    font-size: 40px;
+    text-align: center;
+}
+.js-moves{
+    font-size: 40px;
+    text-align: center;
+}
+
+.js-result{
+    font-size: 40px;
+    text-align: center;
+}
+#reset1{
+    margin-left: 713px;
+    width: 130px;
+    height: 120px;
+    border-radius: 5%;
+    background-color: transparent;
+    font-size: 20px;
+    border: 4px black solid;
+    font-weight: bolder;
+
+}
